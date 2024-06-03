@@ -1,0 +1,1 @@
+# Multitenant-Platform-with-FastAPI-and-SQLAlchemy
